@@ -3,16 +3,18 @@
 An automatic flashcard generator and study tool, **wordtoanki** helps reduce the time spent on making flash cards and helps optimize the time spent studying. It utilizes effective studying techniques such as active recall, and space reptition, all the while being easy-to-use and makes studying more enjoyable.
 
 ## Table of Contents
-
-[Features](#features)
-[Demo](#demo)
-[Installation](#installation)
-[Usage](#usage)
-[Screenshots](#screenshots)
-[Technologies Used](#technologies-used)
-[Contributing](#contributing)
-[License](#license)
-[Contact](#contact)
+- [wordtoanki](#wordtoanki)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
+  - [Usage](#usage)
+  - [Screenshots](#screenshots)
+  - [Technologies Used](#technologies-used)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
 ## Features
 - Formats notes into question-answer pairs to easy studying
