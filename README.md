@@ -6,6 +6,7 @@ An automatic flashcard generator and study tool, **wordtoanki** helps reduce the
 - [wordtoanki](#wordtoanki)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
+  - [Demo](#demo)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
@@ -20,6 +21,10 @@ An automatic flashcard generator and study tool, **wordtoanki** helps reduce the
 - Formats notes into question-answer pairs to easy studying
 - Built-in review mode to studying formatted question
 - Exports to CSV for easy anki import
+
+## Demo
+
+You can check out this project in action at [here](https://wordtoanki.vercel.app/).
 
 ## Installation
 ### Prerequisites
